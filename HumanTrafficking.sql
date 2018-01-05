@@ -6,6 +6,9 @@
 -- Generation Time: Apr 24, 2017 at 11:43 AM
 -- Server version: 5.5.54-0+deb7u2-log
 -- PHP Version: 5.4.45-0+deb7u8
+----------------------------------------------------
+-- I HAVE ADDED THIS COMMENT FOR TESTING PURPOSES --
+----------------------------------------------------
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
